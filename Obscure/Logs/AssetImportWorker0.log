@@ -280,3 +280,4 @@ Received Import Request.
 Start importing Packages/com.unity.probuilder/package.json using Guid(7958ca6fdf895ca498c5fab155f0b0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc2eb81b3e3b1562e19af0d77528df3') in 0.045731 seconds 
   Import took 0.053340 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
