@@ -1040,3 +1040,332 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1122.496593 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_basecolor.png
+  artifactKey: Guid(a66f9ae8fbac2f74eb79d074a8f8c5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_basecolor.png using Guid(a66f9ae8fbac2f74eb79d074a8f8c5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5663fe83b21d0d4c95781b4f3cea16') in 0.138708 seconds 
+  Import took 0.158214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_metallic.png
+  artifactKey: Guid(b8599606720bb1b4c8e90c0ca772a2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_metallic.png using Guid(b8599606720bb1b4c8e90c0ca772a2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5082c6408ea2eeda07ac81ba90bf7e0d') in 0.124828 seconds 
+  Import took 0.160454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_basecolor.png
+  artifactKey: Guid(ca8b027f805421f42b9d3c02041aa887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_basecolor.png using Guid(ca8b027f805421f42b9d3c02041aa887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1287d25c37d27a03e9a3aeacf7a63713') in 0.096241 seconds 
+  Import took 0.136187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_basecolor.png
+  artifactKey: Guid(457a1ab696675264792c917dd06f4ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_basecolor.png using Guid(457a1ab696675264792c917dd06f4ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31fcb445441a1a225a7e97864701c245') in 0.128602 seconds 
+  Import took 0.140606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000796 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_normal.png
+  artifactKey: Guid(7976d7a9031cc144cb3d4f3afc7e82bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_normal.png using Guid(7976d7a9031cc144cb3d4f3afc7e82bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd43f43d2d8685f8b52aebecdeed269c') in 0.106421 seconds 
+  Import took 0.120355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_roughness.png
+  artifactKey: Guid(dbe79931b92438b4cb21519aac41f5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_roughness.png using Guid(dbe79931b92438b4cb21519aac41f5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62d2d287830a827f42a28685051b311') in 0.096545 seconds 
+  Import took 0.126311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003621 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Wood).prefab
+  artifactKey: Guid(72cfa7da0ceba1548817523ae7ddacc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Wood).prefab using Guid(72cfa7da0ceba1548817523ae7ddacc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7677372bb0da1e76d938f7ec39d4a8') in 0.923799 seconds 
+  Import took 0.937416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Wood).prefab
+  artifactKey: Guid(18cd2fc0a780b0e40b1ee8a58822853f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Wood).prefab using Guid(18cd2fc0a780b0e40b1ee8a58822853f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2c225f7cb080057cf2b73629a177e9') in 0.119629 seconds 
+  Import took 0.131286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Black).prefab
+  artifactKey: Guid(5106b120de5d21a418f77180c26f1c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Black).prefab using Guid(5106b120de5d21a418f77180c26f1c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578dc2f5b0400317b0ad7aaf64ddf35b') in 0.141918 seconds 
+  Import took 0.160400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000929 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Concrete).prefab
+  artifactKey: Guid(e55f449d142443c4c96764e849da910a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Concrete).prefab using Guid(e55f449d142443c4c96764e849da910a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff5c5a4ab084ed4bc54d74dc8091f10') in 0.135422 seconds 
+  Import took 0.168425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Wood).prefab
+  artifactKey: Guid(3ed485b98833de146b5042f363e30406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Wood).prefab using Guid(3ed485b98833de146b5042f363e30406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907a97bc40a1ee51e929ba9694e42582') in 0.136452 seconds 
+  Import took 0.150504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_roughness.png
+  artifactKey: Guid(8c9fc232d6fc2c04cbcad155c1c2ae30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_roughness.png using Guid(8c9fc232d6fc2c04cbcad155c1c2ae30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848f0a41766affde67f46d93e9da5342') in 0.110211 seconds 
+  Import took 0.145318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Black).prefab
+  artifactKey: Guid(683754683c8213e4ea879026d84be241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Black).prefab using Guid(683754683c8213e4ea879026d84be241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe81e98fa804cac8808a133a2ec9eb1e') in 0.138300 seconds 
+  Import took 0.150566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000830 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_mat.mat
+  artifactKey: Guid(14c2361281326e243ac2b647f53239f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_mat.mat using Guid(14c2361281326e243ac2b647f53239f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b1bc044edb0320dde3b64d6816f67a') in 0.166154 seconds 
+  Import took 0.179356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_emissive.png
+  artifactKey: Guid(c6a8e7fb95525c143a7d85dca4116af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_emissive.png using Guid(c6a8e7fb95525c143a7d85dca4116af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904d0129fda956ea3f7566ef646fa83e') in 0.136548 seconds 
+  Import took 0.152917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Concrete).prefab
+  artifactKey: Guid(53511846966b6ce4c8acb830be33adff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Concrete).prefab using Guid(53511846966b6ce4c8acb830be33adff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c9b877036ad4effab031ab7dc977842') in 0.138071 seconds 
+  Import took 0.153267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Wood).prefab
+  artifactKey: Guid(a0db7f048a9ccd3418cc76708bc2c06c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Wood).prefab using Guid(a0db7f048a9ccd3418cc76708bc2c06c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b7c12ad3b6cbeacb1e13d14f3e26012') in 0.141471 seconds 
+  Import took 0.152482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Concrete).prefab
+  artifactKey: Guid(d72ff925f26cac64eab6c2d0b0414f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Concrete).prefab using Guid(d72ff925f26cac64eab6c2d0b0414f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e30d186826553fe6dbb1210585e39f') in 0.134669 seconds 
+  Import took 0.147965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Concrete).prefab
+  artifactKey: Guid(e75e0bbfe0e9d8c4b99d6d6b6829eef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Concrete).prefab using Guid(e75e0bbfe0e9d8c4b99d6d6b6829eef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446a24495ba8f2644c880d30cba478e3') in 0.130215 seconds 
+  Import took 0.143435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Concrete).prefab
+  artifactKey: Guid(f65e2864640061144b355703287a53e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Concrete).prefab using Guid(f65e2864640061144b355703287a53e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72b2ca451aef7bcb1dc7ade7a793aab') in 0.146244 seconds 
+  Import took 0.158746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_emissive.png
+  artifactKey: Guid(f3b947f747d82fb4c83a6f5bdba23720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_emissive.png using Guid(f3b947f747d82fb4c83a6f5bdba23720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98b90dd3dc90b029dc81cc522b41348') in 0.113230 seconds 
+  Import took 0.125128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_basecolor.png
+  artifactKey: Guid(2473bf83f2fe7e3498e1bed1a8b4cd80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_basecolor.png using Guid(2473bf83f2fe7e3498e1bed1a8b4cd80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034aa2c87d58649589164f53cd9fe08d') in 0.107320 seconds 
+  Import took 0.127749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_normal.png
+  artifactKey: Guid(c25d17c3d2e6ec14490a70e6dbb4f057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_normal.png using Guid(c25d17c3d2e6ec14490a70e6dbb4f057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ae44089b4b6eeccea57afacef22e28') in 0.093579 seconds 
+  Import took 0.105632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Black).prefab
+  artifactKey: Guid(4b9bd71fee0217e45867eb0d17f859b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Black).prefab using Guid(4b9bd71fee0217e45867eb0d17f859b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd407d06e0b74c700ce203a476558a0') in 0.146565 seconds 
+  Import took 0.170207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_roughness.png
+  artifactKey: Guid(f4c762bb3e50c4843875c08e6f48b613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_roughness.png using Guid(f4c762bb3e50c4843875c08e6f48b613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f9d0ca6e1c06a51da28ba538cc94eb') in 0.117385 seconds 
+  Import took 0.144266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_mat.mat
+  artifactKey: Guid(0495c0891061cf543a7f93f8e422fff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_mat.mat using Guid(0495c0891061cf543a7f93f8e422fff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd13624783a86ad895cffe255238f43') in 0.127304 seconds 
+  Import took 0.140098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_normal.png
+  artifactKey: Guid(9e8658490996ff64ea4f1cd7c06b8668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_normal.png using Guid(9e8658490996ff64ea4f1cd7c06b8668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a840a3be636a12d19484c4d720ba38') in 0.120891 seconds 
+  Import took 0.137071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_mat.mat
+  artifactKey: Guid(0b36183d9999fbb4fa6992939dd0e123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_mat.mat using Guid(0b36183d9999fbb4fa6992939dd0e123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278a38343613470ab5071f5637967ed5') in 0.126379 seconds 
+  Import took 0.142889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004732 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_metallic.png
+  artifactKey: Guid(ac676a600177c6a4c9ef07fbe1e2609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_metallic.png using Guid(ac676a600177c6a4c9ef07fbe1e2609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30088b10aa08b9f73fa565a4c5d8d75f') in 0.109269 seconds 
+  Import took 0.120449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_roughness.png
+  artifactKey: Guid(fa637e127c405ac418e170992191e08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_roughness.png using Guid(fa637e127c405ac418e170992191e08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240a7e07c652ed75ce1f2c80d971ceeb') in 0.100484 seconds 
+  Import took 0.184613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_metallic.png
+  artifactKey: Guid(666a934f93f6aca4aba280592bd49e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_metallic.png using Guid(666a934f93f6aca4aba280592bd49e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f553d4b7a3ef72231d87fc00aa8d9b') in 0.134249 seconds 
+  Import took 0.149226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Concrete).prefab
+  artifactKey: Guid(10078452dab690a4099417aafe441aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Concrete).prefab using Guid(10078452dab690a4099417aafe441aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3981656b43a297762fd31836c8fa31') in 0.131157 seconds 
+  Import took 0.150298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_normal.png
+  artifactKey: Guid(b1b7d17cfcec81346a6e44a8b69a98d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_normal.png using Guid(b1b7d17cfcec81346a6e44a8b69a98d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398ee898586f1b124e13bfc8ee071148') in 0.109584 seconds 
+  Import took 0.122755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_metallic.png
+  artifactKey: Guid(21694348e1a9b5748a3fa39ea6c13eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_metallic.png using Guid(21694348e1a9b5748a3fa39ea6c13eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad07c5a15de86ffbf74882d4babd602') in 0.114920 seconds 
+  Import took 0.133158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_emissive.png
+  artifactKey: Guid(2135360c00da0924aac25edf7c035bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_emissive.png using Guid(2135360c00da0924aac25edf7c035bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e8eebe2f786ea8607dffd47439c228b') in 0.126017 seconds 
+  Import took 0.145687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Black).prefab
+  artifactKey: Guid(0ac8c7292c9cebe40af67618c9d536b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Black).prefab using Guid(0ac8c7292c9cebe40af67618c9d536b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeeaf2cbf21f19aaad6ec0e307d9029b') in 0.131323 seconds 
+  Import took 0.145385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Concrete).prefab
+  artifactKey: Guid(d637864fd6d99f24c976d61f894c2ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Concrete).prefab using Guid(d637864fd6d99f24c976d61f894c2ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f316f8227242cdfe791f7640df5557') in 0.155362 seconds 
+  Import took 0.169350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_emissive.png
+  artifactKey: Guid(68749fc52c8618d4798b97a718182fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_emissive.png using Guid(68749fc52c8618d4798b97a718182fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12f3c41c008d56d9e00fbce2c024679') in 0.114835 seconds 
+  Import took 0.128806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Concrete).prefab
+  artifactKey: Guid(3a162d9b3eabf5541aeafc613988e630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Concrete).prefab using Guid(3a162d9b3eabf5541aeafc613988e630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262a9566108dfe4ee730c4e95869c5a9') in 0.137361 seconds 
+  Import took 0.150767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_mat.mat
+  artifactKey: Guid(03b09042d3aeb4d42a1527de9bd4af05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_mat.mat using Guid(03b09042d3aeb4d42a1527de9bd4af05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb0226b8431ef99c86ac1d3f6cd5c0d') in 0.156336 seconds 
+  Import took 0.172234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Concrete).prefab
+  artifactKey: Guid(3a162d9b3eabf5541aeafc613988e630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Concrete).prefab using Guid(3a162d9b3eabf5541aeafc613988e630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262a9566108dfe4ee730c4e95869c5a9') in 0.145602 seconds 
+  Import took 0.169176 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
