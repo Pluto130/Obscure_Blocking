@@ -136,3 +136,4 @@ Received Import Request.
 Start importing Assets/SpaceZeta_StreetLamps/Floor_mat.mat using Guid(194a7e2c4a9fc5f409dca86a97e93fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe607d16fed2a7ba08acf27e0c8b9c0') in 0.419936 seconds 
   Import took 0.435906 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
